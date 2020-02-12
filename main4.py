@@ -71,6 +71,6 @@ def process_data():
     plt.show()
 
 
-#process_data()
+process_data()
 plot()
-#plot_before()
+plot_before()
